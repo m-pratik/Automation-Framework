@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace PPAutomationFramework
 {
-    public class Class1
+    class Class3
     {
-        public string name { get; set; }
     }
 }
