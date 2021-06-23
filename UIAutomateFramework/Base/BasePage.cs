@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PPAutomationFramework
+namespace UIAutomateFramework.Base
 {
-    class Class3
+    class BasePage
     {
     }
 }
