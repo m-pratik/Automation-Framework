@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PPAutomationFramework.Base
 {
-    class BaseSetup
+    class ConfigurationManager
     {
     }
 }
